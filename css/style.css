@@ -1,0 +1,13 @@
+.titlu{
+    background-color: black;
+    color: brown;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.ingrediente{
+    color: blue;
+}
+.produse, .pasi{
+    background-color: black;
+    color: green;
+}
